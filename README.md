@@ -1,2 +1,2 @@
 # Tienda-Virtual
-Proyecto 
+Proyecto Tienda Virtual Certus
